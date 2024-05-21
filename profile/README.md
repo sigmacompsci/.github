@@ -1,6 +1,6 @@
 # Sigma Computer Science
 
-![image](https://github.com/sigmacompsci/.github/assets/140008493/9fd52109-59ba-46eb-a02f-b68ff9c7c703)
+![The Award Winning Hackathon Software Trilogy - Developed by SigmaCS](https://github.com/sigmacompsci/.github/assets/140008493/9fd52109-59ba-46eb-a02f-b68ff9c7c703)
 
 <a href="https://devpost.com/software/graze">
   <img alt="Graze Devpost" src="https://img.shields.io/badge/Devpost-View%20Graze-informational?style=for-the-badge&logo=devpost&color=B0EAC7&logoColor=003E54" />
