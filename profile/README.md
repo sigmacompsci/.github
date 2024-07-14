@@ -1,6 +1,6 @@
 # Sigma Computer Science
 
-![image](https://github.com/user-attachments/assets/b45d1099-3557-48eb-b9d1-2bbc5a76ca5c)
+![image](https://github.com/user-attachments/assets/554073bd-465a-49d1-8ecd-3aed3d2ed7a2)
 
 <a href="https://devpost.com/software/graze">
   <img alt="Graze Devpost" src="https://img.shields.io/badge/Devpost-View%20Graze-informational?style=for-the-badge&logo=devpost&color=B0EAC7&logoColor=003E54" />
